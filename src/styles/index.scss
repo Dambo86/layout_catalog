@@ -65,6 +65,7 @@ body {
 .nav__link:hover {
   color: $active-color;
 }
+
 .is-active::after {
   content: '';
   position: absolute;
